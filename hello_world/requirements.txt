@@ -5,4 +5,5 @@ python-dateutil
 s3transfer
 six
 urllib3
+ddtrace==0.35.0
 datadog-lambda
