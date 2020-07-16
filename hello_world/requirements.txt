@@ -1,4 +1,4 @@
-ddtrace==0.39.0
+ddtrace==0.38.2
 requests
 boto3
 jmespath
