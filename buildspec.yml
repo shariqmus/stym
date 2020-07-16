@@ -1,0 +1,19 @@
+version: 0.2
+phases:
+  install:
+    runtime-versions:
+        python: 3.8
+  build:
+    commands:
+      - pip --version
+      - python --version
+      - pip3 --version
+      - python3 --version
+      #- pip install --upgrade pip
+      #- pip install pipenv --user
+      #- pipenv install awscli aws-sam-cli
+      #- pipenv run sam build --template-file template.yml
+      #- pipenv run sam package --template-file .aws-sam/build/template.yaml --s3-bucket $S3_BUCKET  --output-template-file packaged-template.yml
+#artifacts:
+#  files:
+#    - packaged-template.yml
