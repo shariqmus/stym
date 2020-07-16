@@ -1,4 +1,3 @@
-ddtrace==0.38.2
 requests
 boto3
 jmespath
@@ -6,4 +5,5 @@ python-dateutil
 s3transfer
 six
 urllib3
+ddtrace==0.38.2
 datadog-lambda
