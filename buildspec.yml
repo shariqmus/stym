@@ -10,7 +10,7 @@ phases:
       #- pip3 --version
       #- python3 --version
       - pip install --upgrade pip
-      - pip install awscli aws-sam-cli wheel
+      - pip install awscli aws-sam-cli
       - sam build
       #- pip install pipenv --user
       #- pipenv install awscli aws-sam-cli
