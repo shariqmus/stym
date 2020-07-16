@@ -1,3 +1,4 @@
+wheel
 requests
 boto3
 jmespath
