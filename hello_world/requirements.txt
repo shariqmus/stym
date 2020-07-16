@@ -1,0 +1,9 @@
+ddtrace==0.39.0
+requests
+boto3
+jmespath
+python-dateutil
+s3transfer
+six
+urllib3
+datadog-lambda
